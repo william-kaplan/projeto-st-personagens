@@ -13,12 +13,5 @@ HTML5
 CSS3
 JavaScript
 
-Como Usar:
-Clone este repositório para sua máquina local.
-Abra o arquivo index.html em um navegador da web.
-Clique nos botões de seleção para alternar entre os personagens e ver suas informações.
-
 Créditos:
 Este projeto foi desenvolvido como parte do curso de desenvolvimento web Dev em Dobro e foi adaptado para apresentar informações sobre os personagens de Stranger Things.
-
-Nota: Este projeto é apenas uma demonstração fictícia e não tem afiliação oficial com a série Stranger Things ou seus criadores. Todos os direitos sobre a série e seus personagens pertencem aos detentores dos direitos autorais.
